@@ -1,10 +1,11 @@
-# AI Architecture Design
+# 🔗 Zion App Network
 
-AI-assisted architecture design.
+This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [cloud-architect-diagram-builder](https://github.com/Zion-support/cloud-architect-diagram-builder) · [tech-stack-recommender](https://github.com/Zion-support/tech-stack-recommender) · [zion-ai-code-assistant](https://github.com/Zion-support/zion-ai-code-assistant) · [ai-assessment-engine](https://github.com/Zion-support/ai-assessment-engine)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+**Related apps:** [cloud-architect-diagram-builder](https://github.com/Zion-support/cloud-architect-diagram-builder) · [tech-stack-recommender](https://github.com/Zion-support/tech-stack-recommender) · [zion-agent-stack-builder](https://github.com/Zion-support/zion-agent-stack-builder)
